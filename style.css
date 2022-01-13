@@ -1,0 +1,42 @@
+body {
+    background-color: green;
+  }
+  h1 {
+    font-family: "The Nautigal", cursive;
+    margin-top: 10%;
+    font-size: 100px;
+    color: goldenrod;
+    text-align: center;
+  }
+  p {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 25px;
+    color: white;
+    text-align: center;
+    font-weight: bold;
+  }
+  #start-btn {
+    margin-top: 8px;
+    margin-left: 44.6%;
+    width: 160px;
+    height: 40px;
+    background-color: goldenrod;
+    border-radius: 10px;
+    color: green;
+    font-weight: bold;
+    font-size: 25px;
+    border: none;
+  }
+  #newCard-btn {
+    margin-top: 8px;
+    margin-left: 44.6%;
+    width: 160px;
+    height: 40px;
+    background-color: goldenrod;
+    border-radius: 10px;
+    color: green;
+    font-weight: bold;
+    font-size: 25px;
+    border: none;
+  }
+  
